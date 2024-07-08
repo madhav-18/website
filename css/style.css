@@ -320,7 +320,7 @@ ul.btn li:last-child {
 
 .navigation.navbar-dark .navbar-nav .nav-link {
      padding: 0 25px;
-     color: #fff;
+     color: #ffffff;
      font-size: 17px;
      line-height: 20px;
      font-weight: 500;
@@ -363,7 +363,7 @@ ul.btn li:last-child {
 
 .header {
      width: 100%;
-     padding: 30px 30px;
+     padding: 0px 0px 15px 0px;
      background: transparent;
      position: absolute;
      z-index: 999;
@@ -381,7 +381,7 @@ ul.btn li:last-child {
 /** banner section **/
 
 .banner_main {
-     background: url(../images/banner.jpg);
+     /* background: url(../images/banner.jpg); */
      background-repeat: no-repeat;
      min-height: 900px;
      background-size: 100% 100%;
@@ -396,9 +396,9 @@ ul.btn li:last-child {
      content: "";
      width:50px; 
      height:40px;
-     background: url(../images/cross.png);
+     /* background: url(../images/cross.png); */
      background-repeat: no-repeat;
-     bottom: -38px;
+     bottom: -10px;
      right: 38px;
 }
 .banner_main::after {
@@ -406,9 +406,9 @@ ul.btn li:last-child {
      content: "";
      width:50px; 
      height:40px;
-     background: url(../images/cross.png);
+     /* background: url(../images/cross.png); */
      background-repeat: no-repeat;
-     bottom: -38px;
+     bottom: -10px;
      left: 38px;
 }
 .text-bg {
