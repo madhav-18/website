@@ -92,19 +92,21 @@
             </div>
             <div class="row">
                <div class="col-md-10 offset-md-1">
-                  <form id="request" class="main_form">
+                  <form id="request" class="main_form" action="https://api.web3forms.com/submit" method="POST">
                      <div class="row">
+                        <input type="hidden" name="access_key" value="ae97b96c-e6d1-49c9-a6e5-65cbacdfa7be">
                         <div class="col-md-12 ">
-                           <input class="contactus" placeholder="Name" type="type" name="Name"> 
+                           <input class="contactus" placeholder="Name" name="name" required>
+                           <input type="hidden" name="from_name" value="New Enquiry">
                         </div>
                         <div class="col-md-12">
-                           <input class="contactus" placeholder="Email" type="type" name="Email"> 
+                           <input class="contactus" placeholder="Email" name="email" required>                          
                         </div>
                         <div class="col-md-12">
-                           <input class="contactus" placeholder="Phone Number" type="type" name="Phone Number">                          
+                           <input class="contactus" placeholder="Phone Number" name="Phone Number" required>                          
                         </div>
                         <div class="col-md-12">
-                           <textarea class="textarea" placeholder="Message" type="type" Message="Name">Message </textarea>
+                           <textarea class="textarea" placeholder="Message" name="message"></textarea>
                         </div>
                         <div class="col-md-12">
                            <button class="send_btn">Send</button>
@@ -124,8 +126,8 @@
                   <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
                      <img class="logo1" src="pics/output-onlinepngtools.png" alt="#"/>
                      <ul class="social_icon">
-                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.facebook.com/profile.php?id=61561711485935"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a href="http://www.linkedin.com/in/smaj-industries"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
                         <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                      </ul>
                   </div>
