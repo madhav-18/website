@@ -783,42 +783,42 @@ ul.btn li:last-child {
 /** contact section **/
 
 .contact {
-     background: url(../images/contact_g.jpg);
+     background: url(../images/bg.jpg);
      background-repeat: no-repeat;
      background-size: 100% 100%;
-     padding: 90px 0;
+     padding: 0 0 60px 0;
 }
 
 .contact .titlepage h2 {
-     color: #fff;
-     border-bottom: #fff solid 1px;
+     color: #000000;
+     border-bottom: #000000 solid 1px;
 }
 
 .main_form {
      padding: 70px 50px;
-     border: #fff solid 2px;
+     border: #000000 solid 2px;
      margin: 0 50px;
 }
 
 .main_form .contactus {
-     border: #fff solid 2px;
+     border: #000000 solid 2px;
      padding: 0px 15px;
      margin-bottom: 25px;
      width: 100%;
      height: 57px;
      background: transparent;
-     color: #fff;
+     color: #464646;
      font-size: 18px;
      font-weight: normal;
 }
 
 .main_form .textarea {
-     border: #fff solid 2px;
+     border: #000000 solid 2px;
      padding: 0px 15px;
      margin-bottom: 25px;
      width: 100%;
      background: transparent;
-     color: #fff;
+     color: #4e4e4e;
      font-size: 18px;
      font-weight: normal;
      padding-top: 56px;
@@ -830,7 +830,7 @@ ul.btn li:last-child {
      transition: ease-in all 0.5s;
      background-color: #48ca95;
      text-transform: uppercase;
-     color: #fff;
+     color: #ffffff;
      padding: 15px 0px;
      max-width: 226px;
      width: 100%;
@@ -842,13 +842,13 @@ ul.btn li:last-child {
 }
 
 .main_form .send_btn:hover {
-     background-color: #000;
+     background-color: #000000;
      transition: ease-in all 0.5s;
-     color: #fff;
+     color: #48ca95;
 }
 
 #request *::placeholder {
-     color: #fff;
+     color: #000000;
      opacity: 1;
 }
 
@@ -862,7 +862,7 @@ ul.btn li:last-child {
      background: url(../images/footer.jpg);
      background-repeat: no-repeat;
      background-size: 100% 100%;
-     padding-top: 115px;
+     padding-top: 70px;
      text-align: center;
 }
 
@@ -975,7 +975,7 @@ ul.social_icon li a:hover {
 }
 
 .copyright {
-     margin-top: 80px;
+     margin-top: 45px;
      padding-bottom: 20px;
 }
 
@@ -1005,7 +1005,7 @@ ul.social_icon li a:hover {
 
 .inner_posituong .header {
      position: inherit;
-     background: #4843a3;
+     /* background: #4843a3; */
 }
 
 .computer_page .laptop {
@@ -1013,7 +1013,7 @@ ul.social_icon li a:hover {
 }
 
 .contact_page .contact {
-     margin-top: 90px;
+     margin-top: 60px;
 }
 
 
