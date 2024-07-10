@@ -848,7 +848,7 @@ ul.btn li:last-child {
 }
 
 #request *::placeholder {
-     color: #000000;
+     color: #7d7d7d;
      opacity: 1;
 }
 
