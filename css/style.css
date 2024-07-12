@@ -1761,7 +1761,7 @@ ul.social_icon li a:hover {
 	line-height: 1;
 	font-weight: 500;
 	letter-spacing: 0;
-	font-family: "Maven Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	font-family: "Maven Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
 	color: #9b9b9b;
 	transform: rotate(-90deg);
 }
