@@ -643,10 +643,10 @@ ul.btn li:last-child {
 
 .our_products .product_box h3 {
 	width: 200px;
-	color: #fff;
+	color: #000000;
 	font-size: 20px;
 	line-height: 20px;
-	background-color: #252525;
+	background-color: #ffffff;
 	font-weight: 500;
 	margin: 0 auto;
 	padding: 10px 0;
@@ -675,8 +675,8 @@ ul.btn li:last-child {
 }
 
 .our_products .read_more:hover {
-	background: #48ca95;
-	color: #000 !important;
+	background: #0a5370;
+	color: #ffffff !important;
 }
 
 
