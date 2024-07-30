@@ -132,7 +132,7 @@
     .navigation .navbar-collapse {
         background: #48ca95;
         padding: 20px;
-        margin-top: 64px;
+        margin-top: 40px;
         position: absolute;
         width: 100%;
         margin-right: 20px;
@@ -168,7 +168,7 @@
 
 @media (max-width: 575px) {
     .header {
-        padding: 30px 0px 15px 0px;
+        /* padding: 30px 0px 15px 0px; */
     }
     .logo {
         text-align: center !important;
@@ -228,9 +228,10 @@
         margin-top: -96px;
     }
     .navigation .navbar-collapse {
+        /* text-align: center; */
         background: #48ca95;
         padding: 20px;
-        margin-top: 67px;
+        margin-top: 66px;
         position: absolute;
         width: 100%;
         margin-right: 20px;

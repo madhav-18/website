@@ -397,6 +397,7 @@ ul.btn li:last-child {
 }
 
 
+
 /** banner section **/
 
 .banner_main {
@@ -1529,11 +1530,6 @@ ul.social_icon li a:hover {
 	white-space: normal;
 }
 
-@media (max-width: 767.98px) {
-	.swiper-slide-caption {
-		padding-bottom: 80px;
-	}
-}
 
 .swiper-slider-classic {
 	max-height: 38.54167vw;
