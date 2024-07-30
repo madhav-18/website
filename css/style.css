@@ -562,7 +562,7 @@ ul.btn li:last-child {
 
 .read_more {
 	font-size: 17px;
-	border-radius: 100px;
+	/* border-radius: 100px; */
 	background-color: #045c4c;
 	color: #fff !important;
 	padding: 13px 0px;
@@ -807,7 +807,7 @@ ul.btn li:last-child {
 /** contact section **/
 
 .contact {
-	background: url(../images/bg.jpg);
+	/* background: url(../images/bg.jpg); */
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	padding: 0 0 60px 0;
@@ -816,19 +816,19 @@ ul.btn li:last-child {
 .contact .titlepage h2 {
 	color: #000000;
 	border-bottom: #000000 solid 3px;
-	border-radius: 20px;
+	/* border-radius: 20px; */
 }
 
 .main_form {
 	padding: 70px 50px;
 	border: #000000 solid 3px;
-	border-radius: 50px;
+	/* border-radius: 50px; */
 	margin: 0 50px;
 }
 
 .main_form .contactus {
 	border: #000000 solid 3px;
-	border-radius: 20px;
+	/* border-radius: 20px; */
 	padding: 0px 15px;
 	margin-bottom: 25px;
 	width: 100%;
@@ -841,7 +841,7 @@ ul.btn li:last-child {
 
 .main_form .textarea {
 	border: #000000 solid 3px;
-	border-radius: 20px;
+	/* border-radius: 20px; */
 	padding: 0px 15px;
 	margin-bottom: 25px;
 	width: 100%;
@@ -865,7 +865,7 @@ ul.btn li:last-child {
 	display: block;
 	margin-top: 30px !important;
 	margin: 0 auto;
-	border-radius: 40px;
+	/* border-radius: 40px; */
 	font-weight: 500;
 }
 
